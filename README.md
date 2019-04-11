@@ -1,5 +1,5 @@
-OctaPi--MonteCarloTradingSimulator
-
+# OctaPi--MonteCarloTradingSimulator
+___
 
 Google Drive folder containing documentation, screenshots, terminal output and picture of all team members can be found at the following link:
 
